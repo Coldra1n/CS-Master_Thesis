@@ -2,12 +2,7 @@ import torch
 
 from functools import partial
 
-from ft_datasets import (
-    get_grammar_dataset,
-    get_alpaca_dataset,
-    get_samsum_dataset,
-    get_scientific_papers_dataset,
-)
+from dataset import get_scientific_papers_dataset
 from typing import Optional
 
 
