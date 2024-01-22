@@ -2,7 +2,7 @@
 Master’s thesis in the field of Cognitive Science. The thesis was written under the supervision of 
 Dr.Adam Zadrożny PhD National Centre for Nuclear Research and Dr.Anna Anzulewicz PhD Department of Developmental Psychology.
 
-*Summary*
+*Summary* :
 This research conducted an in-depth adaptation and comparative evaluation of two prominent 
 AI models: LONGT5 and LLaMA2. The study compared traditionally full parameters fine-tuned 
 LONGT5 with parameter efficient fine-tuning(PEFT) of LLaMA 2. Among PEFT methods we focused on the Llama adapter, prefix tunning, LoRA, and QLoRa where LoRa
